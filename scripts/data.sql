@@ -1,0 +1,2 @@
+insert into account (account_number, name, balance, currency, version, creation_date) values('1234567', 'User1', 100.0, 'USD', 1, CURRENT_TIMESTAMP(1))
+insert into account (account_number, name, balance, currency, version, creation_date) values('1234568', 'User2', 50.0, 'USD', 1, CURRENT_TIMESTAMP(1))
